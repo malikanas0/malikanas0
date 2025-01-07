@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cypress automation
 - 💞️ I’m looking to collaborate on Playworght for Autorun the test like Cypress
 - 📫 How to reach me you can reach me through email: malikanassultan@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: HE
 - ⚡ Fun fact: I like to read books and I started reading the book 7 Habits of Highly Effective People
 
 <!---
