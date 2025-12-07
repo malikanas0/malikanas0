@@ -2,7 +2,7 @@
 
 🚀 **QA Manual & Automation Engineer | Project Lead | Test Automation Enthusiast**
 
-Welcome to my GitHub! I'm a passionate QA Engineer with over **2 years of experience** in both **manual** and **automation testing**, helping teams build reliable, user-focused, and high-performing applications. My journey in quality assurance has equipped me with the skills to lead projects, design automation frameworks, and ensure the best possible experience for users.
+Welcome to my GitHub! I'm a passionate QA Engineer with over **3 years of experience** in both **manual** and **automation testing**, helping teams build reliable, user-focused, and high-performing applications. My journey in quality assurance has equipped me with the skills to lead projects, design automation frameworks, and ensure the best possible experience for users.
 
 ---
 
