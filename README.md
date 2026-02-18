@@ -16,6 +16,7 @@ Welcome to my GitHub! I'm a passionate QA Engineer with over **3 years of experi
 - **Jira / Trello** – Test case management and defect tracking
 
 ### 🔸 Manual Testing
+- Azure Devops
 - Functional Testing
 - Exploratory Testing
 - Regression Testing
