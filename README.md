@@ -56,7 +56,7 @@ I'm always looking to learn, grow, and collaborate with developers, designers, a
 
 ## 📚 A Bit About Me
 Outside of testing, I love reading and self-improvement.  
-Currently reading: _"The 7 Habits of Highly Effective People"_ by Stephen R. Covey 📖  
+Currently reading: _"YOU WERE NOT TO SUPPOSED TO WAKE UP"_ by IMTINAN AHMAD 📖  
 Always eager to learn something new – whether it’s a testing tool, tech trend, or leadership strategy.
 
 ---
